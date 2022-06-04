@@ -1,1 +1,1 @@
-# [DEMO](https://alexandr1solo.github.io/face-panda/)
+# [DEMO](https://alexandr1solo.github.io/Face-panda/)
